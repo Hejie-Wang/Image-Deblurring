@@ -1,0 +1,9 @@
+# DeepDeblur 训练环境（服务器 Python 3.10+）
+# 已安装 PyTorch 的话只需：
+#   pip install -r requirements.txt
+torch>=2.0
+numpy
+imageio
+scikit-image
+matplotlib
+tqdm
